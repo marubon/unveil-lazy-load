@@ -11,10 +11,10 @@ to only load an image when it's visible in the viewport.
 
 1. Download zip archive file from this repository.
 
-2. Login as an administrator to your WordPress Admin account. 
+2. Login as an administrator to your WordPress admin page. 
    Using the "Add New" menu option under the "Plugins" section of the navigation, 
    Click the "Upload" link, find the .zip file you download and then click "Install Now". 
-   You can also unzip and upload the plugin files to your plugins directory (i.e. wp-content/plugins/) through FTP/SFTP. 
+   You can also unzip and upload the plugin to your plugins directory (i.e. wp-content/plugins/) through FTP/SFTP. 
 
 3. Finally, activate the plugin on the "Plugins" page.
 
